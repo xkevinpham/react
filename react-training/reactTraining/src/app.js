@@ -24,7 +24,8 @@ class App extends Component {
 />}
 
         <h1>Greetings</h1>
-        {/* TODO: Use the Greetings component */}
+        {<Greetings lang="de">Ludwig</Greetings>
+<Greetings lang="fr">François</Greetings>}
       </div>
     );
   }
