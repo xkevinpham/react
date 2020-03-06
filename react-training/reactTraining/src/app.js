@@ -86,7 +86,7 @@ class App extends Component {
     model: "Audi A3",
     licensePlate: "BE33ER"
   }} />
-}
+};
 
 
 
